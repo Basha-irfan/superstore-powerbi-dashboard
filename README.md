@@ -1,1 +1,2 @@
 # superstore-powerbi-dashboard
+[brackets]
